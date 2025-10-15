@@ -8,6 +8,7 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Signup from "./components/Signup";
 import LoginPage from "./components/LoginPage";
+import Dashboard from "./components/Dashboard";
 import "./App.css";
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/signup" element={<Signup />} />
           <Route path="/login" element={<LoginPage />} />
+          <Route path="/dashboard" element={<Dashboard />} />
         </Routes>
       </div>
       <Footer />
