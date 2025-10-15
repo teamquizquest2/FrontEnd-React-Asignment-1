@@ -39,6 +39,12 @@ function Navbar() {
             Contact
           </NavLink>
         </li>
+
+
+        <li>
+  <Link to="/dashboard" className="nav-link">Dashboard</Link>
+</li>
+
       </ul>
 
       {/* Right Side - Buttons */}
