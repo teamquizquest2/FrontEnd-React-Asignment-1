@@ -46,4 +46,9 @@ Version Control: Git & GitHub
 
 This project is developed collaboratively by our group as part of our coursework/project initiative to explore frontend development and improve learning through technology.
 
-![Watch the video](WhatsApp Video 2025-10-15 at 14.00.25_3ca759e7.mp4)
+## 🎥 Project Demo
+
+[![Watch the video](thumbnail.png)](https://drive.google.com/file/d/1vi6URxxlUxOxkSvF-_rCq4MmagVpB1X_/view?usp=drive_link)
+
+> Click the image above to watch the full demo video.
+
